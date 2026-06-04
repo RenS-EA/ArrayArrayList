@@ -3,7 +3,7 @@ package bagian1.array;
 
 public class Latihan2 {
 public static void main(String[] args) {
-int[] nilai = {80, 75, 90, 60, 85, 90};
+int[] nilai = {80, 75, 90, 60, 85};
 // for biasa: punya akses ke indeks
 System.out.println("== Menggunakan for ==");
 for (int i = 0; i < nilai.length; i++) {

@@ -8,6 +8,7 @@ public static void main(String[] args) {
 // Membuat ArrayList kosong yang menampung String
 ArrayList<String> mahasiswa = new ArrayList<>();
 // add() menambah elemen di akhir
+mahasiswa.add("Riyadh");
 mahasiswa.add("Andi");
 mahasiswa.add("Budi");
 mahasiswa.add("Citra");
