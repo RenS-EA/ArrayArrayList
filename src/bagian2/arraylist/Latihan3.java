@@ -1,5 +1,5 @@
 
-package bagian1.array;
+package bagian2.arraylist;
 
 import java.util.ArrayList;
 
